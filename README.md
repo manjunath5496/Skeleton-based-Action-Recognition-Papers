@@ -106,18 +106,17 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(61).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Directed Graph Neural Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(62).pdf" style="text-decoration:none;">Skeleton-based action recognition with convolutional neural networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(63).pdf" style="text-decoration:none;">Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(64).pdf" style="text-decoration:none;">BASAR:Black-box Attack on Skeletal Action Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(65).pdf" style="text-decoration:none;">Skeleton-based Action Recognition Using LSTM and CNN </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(66).pdf" style="text-decoration:none;">Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(67).pdf" style="text-decoration:none;">Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition</a></li>                              
 
   </ul>
   
