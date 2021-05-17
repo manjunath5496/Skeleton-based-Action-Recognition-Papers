@@ -110,7 +110,7 @@
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(63).pdf" style="text-decoration:none;">Learning Graph Convolutional Network for Skeleton-based Human Action Recognition by Neural Searching</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(64).pdf" style="text-decoration:none;">BASAR:Black-box Attack on Skeletal Action Recognition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(64).pdf" style="text-decoration:none;">BASAR: Black-box Attack on Skeletal Action Recognition</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(65).pdf" style="text-decoration:none;">Skeleton-based Action Recognition Using LSTM and CNN </a></li> 
 
