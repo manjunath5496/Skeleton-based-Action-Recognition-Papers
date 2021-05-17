@@ -59,61 +59,52 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(31).pdf" style="text-decoration:none;">Context Aware Graph Convolution for Skeleton-Based Action Recognition</a></li> 
     <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(32).pdf" style="text-decoration:none;">PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(33).pdf" style="text-decoration:none;">Graph CNNs with Motif and Variable Temporal Block for Skeleton-based Action Recognition</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(34).pdf" style="text-decoration:none;">Adversarial Self-Supervised Learning for Semi-Supervised 3D Action Recognition</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(35).pdf" style="text-decoration:none;">Prototypical Contrast and Reverse Prediction: Unsupervised Skeleton Based Action Recognition</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(36).pdf" style="text-decoration:none;">SkeleMotion: A New Representation of Skeleton Joint Sequences Based on Motion Information for 3D Action Recognition</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(37).pdf" style="text-decoration:none;">Co-occurrence Feature Learning from Skeleton Data for Action Recognition and Detection with Hierarchical Aggregation</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(38).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Synchronous Local and Non-local Spatio-temporal Learning and Frequency Attention</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(39).pdf" style="text-decoration:none;">Deep Independently Recurrent Neural Network (IndRNN)</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(40).pdf" style="text-decoration:none;">A New Representation of Skeleton Sequences for 3D Action Recognition</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(41).pdf" style="text-decoration:none;">Bayesian Graph Convolution LSTM for Skeleton Based Action Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(42).pdf" style="text-decoration:none;">Optimized Skeleton-based Action Recognition via Sparsified Graph Regression</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(43).pdf" style="text-decoration:none;">Richly Activated Graph Convolutional Network for Action Recognition with Incomplete Skeletons</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(44).pdf" style="text-decoration:none;">Stronger, Faster and More Explainable: A Graph Convolutional Baseline for Skeleton-based Action Recognition</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(45).pdf" style="text-decoration:none;">3D Human Action Representation Learning via Cross-View Consistency Pursuit</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(46).pdf" style="text-decoration:none;">Human Action Recognition by Representing 3D Skeletons as Points in a Lie Group</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(47).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Spatial Reasoning and Temporal Stack Learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(48).pdf" style="text-decoration:none;">Modeling Temporal Dynamics and Spatial Configurations of Actions Using Two-Stream Recurrent Neural Networks</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(49).pdf" style="text-decoration:none;">An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(50).pdf" style="text-decoration:none;">Jointly Learning Heterogeneous Features for RGB-D Activity Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(51).pdf" style="text-decoration:none;">Semantics-Guided Neural Networks for Efficient Skeleton-Based Human Action Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(52).pdf" style="text-decoration:none;">MS2L: Multi-Task Self-Supervised Learning for Skeleton Based Action Recognition</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(53).pdf" style="text-decoration:none;">Co-Occurrence Feature Learning for Skeleton Based Action Recognition Using Regularized Deep LSTM Networks</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(54).pdf" style="text-decoration:none;">Syntactically Guided Generative Embeddings for Zero-Shot Skeleton Action Recognition </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(55).pdf" style="text-decoration:none;">Two-Stream Adaptive Graph Convolutional Networks for Skeleton-Based Action Recognition</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(56).pdf" style="text-decoration:none;">Interpretable 3D Human Action Analysis with Temporal Convolutional Networks </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(57).pdf" style="text-decoration:none;">Memory Attention Networks for Skeleton-based Action Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(58).pdf" style="text-decoration:none;">Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(59).pdf" style="text-decoration:none;">Skeleton-based Action Recognition via Spatial and Temporal Transformer Networks</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(60).pdf" style="text-decoration:none;">Mix Dimension in Poincare Geometry for 3D Skeleton-based Action Recognition </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(61).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Directed Graph Neural Networks</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
  
