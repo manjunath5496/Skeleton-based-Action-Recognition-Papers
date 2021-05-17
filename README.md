@@ -34,7 +34,7 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(18).pdf" style="text-decoration:none;">Spatio-Temporal LSTM with Trust Gates for 3D Human Action Recognition</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(19).pdf" style="text-decoration:none;">PREDICT & CLUSTER: Unsupervised Skeleton Based Action Recognition</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(19).pdf" style="text-decoration:none;">A Survey on 3D Skeleton-Based Action Recognition Using Learning Method</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(20).pdf" style="text-decoration:none;">Skeleton-Based Action Recognition with Multi-Stream Adaptive Graph Convolutional Networks</a></li>
 
@@ -117,7 +117,7 @@
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(66).pdf" style="text-decoration:none;">Spatio-Temporal Graph Convolution for Skeleton Based Action Recognition</a></li> 
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(67).pdf" style="text-decoration:none;">Spatial Residual Layer and Dense Connection Block Enhanced Spatial Temporal Graph Convolutional Network for Skeleton-Based Action Recognition</a></li>                              
-
+   <li><a target="_blank" href="https://github.com/manjunath5496/Skeleton-based-Action-Recognition-Papers/blob/master/sk(68).pdf" style="text-decoration:none;">Make Skeleton-based Action Recognition Model Smaller, Faster and Better</a></li>  
   </ul>
   
   
